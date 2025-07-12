@@ -1,8 +1,8 @@
 # brain_tumor_classification_project
-# brain_tumor_classification
+
 Step-by-step Breakdown
 1. Clone the GitHub Repository
-git clone https://github.com/hiteshjha2003/brain_tumor_classification.git
+
 
 What it does:
 This command makes a local copy of the GitHub repository on your machine.
